@@ -39,7 +39,7 @@
                 </div>
 
                 <div class="flex justify-center">
-                    <strong><span>TEST APP PARA SUBIR A GITHUB Y DOCKER </span></strong>
+                    <strong><span>TEST APP PARA SUBIR A GITHUB Y DOCKER</span></strong>
                 </div>
 
                 <div class="mt-16">
